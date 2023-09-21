@@ -2,7 +2,7 @@
     border-right: 5px solid red;
     border-radius: 0 !important;
     font-family: Arial !important;
-/*     display: none;*/
+ display: none;
   } 
   rw#alertMessage {
     font-weight: 600;
